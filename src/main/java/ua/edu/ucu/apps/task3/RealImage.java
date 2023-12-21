@@ -1,4 +1,4 @@
-package ua.edu.ucu.apps.task2;
+package ua.edu.ucu.apps.task3;
 
 import javax.swing.JFrame;
 import javax.swing.ImageIcon;
